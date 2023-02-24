@@ -1,1 +1,1 @@
-Creating first directory in the repository
+This is my new Hot fix changes made to this readme file
